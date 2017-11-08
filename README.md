@@ -10,7 +10,7 @@ TDB
 ## General information:
 Booking
 * Try to book at least one week in advance, although I am aware that this is not always possible.
-* Book one supervision per 4ish lectures.
+* Book one supervision per 3 lectures.
 
 Submission
 * Written submission in my pigeon hole in Churchill 48 hours before supervision.
