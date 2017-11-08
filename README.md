@@ -12,6 +12,7 @@ Booking
 * Book one supervision per 3 lectures.
 
 Submission
+* Preferred form is a nicely latexed pdf.
 * Written submission in my pigeon hole in Churchill 48 hours before supervision.
 * By email 24 hours before supervision.
 
