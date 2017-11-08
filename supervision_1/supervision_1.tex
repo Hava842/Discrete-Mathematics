@@ -1,5 +1,6 @@
 \documentclass{exam}
 \usepackage[utf8]{inputenc}
+\usepackage{amsmath}
  
 \begin{document}
 \noindent
@@ -11,8 +12,7 @@ proof, implication, contrapositive, modus ponens, bi-implication, divisibility, 
 
 \paragraph{Core questions}
 \begin{questions}
-\question Write step-by-step proofs for the following statements or their falsification.
-
+\question Prove or disprove the following statements. Clear, step-by-step proofs are expected.
 \begin{itemize}
 \item Suppose $n$ is a natural number larger than 2, and $n$ is not a prime number. Then $2n + 13$ is not a prime
 number.
@@ -25,25 +25,49 @@ number.
 
 \item For all integers $x$ and $y$ there is an integer $z$ such that $x + z = y - z$.
 
-\item The addition of two rational numbers is a rational number.
-
-\item For every real number $x$, if $x\neq 2$ then there is a unique real number $y$ such that $2y/(y + 1) = x$.
-
 \item For all integers $m$ and $n$, if $mn$ is even, then either $m$ is even or $n$ is even.
 
+\item $10|1526^{19}+2^{58}$
 \end{itemize}
+
+\question Find all $p$ prime numbers, such that $\frac{p^2-1}{p-1}$ is also prime. 
+
+\question Let $P(m)$ be a statement for $m$ ranging over the natural numbers, and consider the derived statement $$P^\#(m)=(\forall \text{ natural number } k \text{ . } 0 \leq k \leq m \implies P(k))$$ 
+
+again for m ranging over the natural numbers.
+
+\begin{itemize}
+\item Show that for all natural numbers $l$, $P^\#(l)\implies P(l)$
+\item Prove by exhibiting a counter-example that $P(n)\implies P^\#(n)$ does not hold.
+\item Prove or disprove:
+\begin{itemize}
+\item $P^\#(0) \iff P(0)$
+\item $\forall \text{ natural number } n. (P^\#(n) \implies P^\#(n+1)) \iff (P^\#(n) \implies P(n+1)) $
+\item $(\forall \text{ natural number } m.P^\#(m) ) \iff (\forall \text{ natural number } m.P(m) )$
+\end{itemize}
+\end{itemize}
+
+\question Prove that for all integers d, k, l, m, n,
+\begin{itemize}
+\item $d | m \wedge d | n \implies d | (m + n)$
+\item $ d | m \implies d | k m$
+\item $ d | m \wedge d | n \implies d | (k m + l n)$
+\end{itemize} 
+
 \end{questions}
 
-\paragraph{Tryhard questions (optional)}
+\paragraph{Tryhard questions (entirely optional, can be difficult)}
 \begin{questions}
-\question TODO
+\question Find all natural numbers $n$, such that $n^3-27$ is a prime.
+
+\question Prove that there are infinitely many natural numbers $n$, such that $4n+3$ is prime.
 \end{questions}
 
-\paragraph{Survey Questions (optional)}
+\paragraph{Survey Questions}
 \begin{questions}
 \question How long did it take to complete the core questions?
  
-\question How do you rate your understanding of the topics of this week's supervision?
+\question How do you rate your understanding of the topics of this week's supervision? (select one or more)
 
 \begin{itemize}
 \item

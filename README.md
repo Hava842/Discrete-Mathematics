@@ -4,8 +4,7 @@ This repository contains the supervision work as well as general information abo
 
 ## Work
 
-Supervision 1:
-TDB
+[Supervision 1](supervision_1/supervision_1.pdf)
 
 ## General information:
 Booking
@@ -17,7 +16,7 @@ Submission
 * By email 24 hours before supervision.
 
 Venue
-* Churchil College on the weekend.
+* Churchill College on the weekend.
 * Department of Engineering on weekdays.
 
 Why github?
