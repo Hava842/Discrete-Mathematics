@@ -10,6 +10,8 @@ This repository contains the supervision work as well as general information abo
 
 [Supervision 3](supervision_3/supervision_3.pdf)
 
+[Supervision 4](supervision_4/supervision_4.pdf)
+
 ## General information:
 Booking
 * Try to book at least one week in advance, although I am aware that this is not always possible.
