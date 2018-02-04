@@ -12,6 +12,8 @@ This repository contains the supervision work as well as general information abo
 
 [Supervision 4](supervision_4/supervision_4.pdf)
 
+[Supervision 5](supervision_5/supervision_5.pdf)
+
 ## General information:
 Booking
 * Try to book at least one week in advance, although I am aware that this is not always possible.
@@ -23,7 +25,6 @@ Submission
 * By email 24 hours before supervision.
 
 Venue
-* Churchill College on the weekend.
 * Department of Engineering on weekdays.
 
 Why github?
