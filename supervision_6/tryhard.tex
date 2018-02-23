@@ -1,0 +1,75 @@
+\documentclass{exam}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{ dsfont }
+\usepackage{ oz }
+ 
+\begin{document}
+\noindent
+\large\textbf{Discrete Mathematics 6} \hfill Supervisior: Marton Havasi \\
+\normalsize Tryhard solution \hfill 23/02/2018
+
+\begin{questions}
+
+\question Prove that if $A$ and $B$ are sets such that $A \cong \mathbb{R}$ and
+$B \cong \mathbb{R}$ then $A \cup B \cong \mathbb{R}$.
+
+Note: I tried to come up with a proof that does not prove the Schröder–Bernstein theorem at the same time but I could not. In set theory, the Schröder–Bernstein theorem states that, if there exist injective functions $f : A \rightarrow B$ and $g : B \rightarrow A$ between the sets $A$ and $B$, then there exists a bijective function $h : A \rightarrow B$. Check out the theorem \href{https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem}{here}.
+
+Assume that $a$ and $b$ are bijections between $A$ and $\mathbb{R}$ and $B$ and $\mathbb{R}$ respectively.
+
+Consider $f(x)=e^x$. $f: \mathbb{R} \rightarrow \mathbb{R}^+$ is a bijection between $\mathbb{R}$ and $\mathbb{R}^+$.
+
+Consider $i: A\cup B \rightarrow \mathbb{R}$:
+\[
+  i(x) =
+  \begin{cases}
+    \begin{aligned}
+       & a(x)  & \text{ if } x \in A  \\
+    
+       & b(x) & \text{ otherwise}
+    \end{aligned}        
+  \end{cases} \,.
+\]
+
+$i$ is injective.
+
+Consider $j: \mathbb{R} \rightarrow A\cup B$:
+\[
+  j(x) =
+  \begin{cases}
+    \begin{aligned}
+       & (f^{-1} \circ a^{-1})(x)  & \text{ if } x > 0  \\
+    
+       & (f^{-1} \circ b^{-1})(-x) & \text{ if } x < 0 \\
+       & a^{-1}(0)  & \text{ otherwise } 
+    \end{aligned}        
+  \end{cases} \,.
+\]
+
+$j$ is injective.
+
+Define the equivalence relations
+
+\[
+e_\mathbb{R}(x, y) = \exists n \geq 0. \big((i \circ j)^n(x)=y \wedge (i \circ j)^n(y)=x \big)
+\]
+
+\[
+e_{A\cup B}(u, v) = \exists n \geq 0. \big((j \circ i)^n(u)=v \wedge (j \circ i)^n(v)=u\big) 
+\]
+
+Now we are ready to construct the bijection between $\mathbb{R}$ and $A \cup B$. By definition, the equivalence classes partition their respective sets. Every element is in exactly one equivalence class.
+
+We will construct $h$ by exhibiting a bijection between $[x]_{e_\mathbb{R}}$ and $[j(x)]_{e_{A\cup B}}$ for arbitrary $x$ in $\mathbb{R}$. The resulting relation is a bijection, since it also bijects the elements of $[u]_{e_{A\cup B}} = [j(i(u))]_{e_{A\cup B}}$ and $[i(u)]_{e_\mathbb{R}}$ for arbitrary $u$ in $A \cup B$.
+
+\begin{itemize}
+\item Case 1
+$[x]_{e_\mathbb{R}}$ has an element $y$ such that $\forall u \in A\cup B. i(u) \neq y$. In this case, $j$ is a bijection between $[x]_{e_\mathbb{R}}$ and $[j(x)]_{e_{A\cup B}}$.
+\item Case 2 $[x]_{e_\mathbb{R}}$ does not have an element $y$ such that $\forall u \in A\cup B. i(u) \neq y$. In this case, $i$ is a bijection between $[j(x)]_{e_{A\cup B}}$ and $[x]_{e_\mathbb{R}}$.
+\end{itemize}
+
+\end{questions}
+\end{document}

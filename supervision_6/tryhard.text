@@ -1,0 +1,22 @@
+\documentclass{exam}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{ dsfont }
+\usepackage{ oz }
+ 
+\begin{document}
+\noindent
+\large\textbf{Discrete Mathematics 6} \hfill Supervisior: Marton Havasi \\
+\normalsize Lectures 18-19 \hfill 15/02/2018
+
+
+\paragraph{Tryhard questions (recommended)}
+\begin{questions}
+
+\question Prove that if $A$ and $B$ are sets such that $A \cong \mathbb{R}$ and
+$B \cong \mathbb{R}$ then $A \cup B \cong \mathbb{R}$.
+
+\end{questions}
+\end{document}
