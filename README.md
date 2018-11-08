@@ -4,38 +4,35 @@ This repository contains the supervision work as well as general information abo
 
 ## Work
 
-[Supervision 1](supervision_1/supervision_1.pdf)
+[Supervision 1 (updated for 2018)](supervision_1/supervision_1.pdf)
 
-[Supervision 2](supervision_2/supervision_2.pdf)
+[Supervision 2 (NOT updated for 2018)](supervision_2/supervision_2.pdf)
 
-[Supervision 3](supervision_3/supervision_3.pdf)
+[Supervision 3 (NOT updated for 2018)](supervision_3/supervision_3.pdf)
 
-[Supervision 4](supervision_4/supervision_4.pdf)
+[Supervision 4 (NOT updated for 2018)](supervision_4/supervision_4.pdf)
 
-[Supervision 5](supervision_5/supervision_5.pdf)
+[Supervision 5 (NOT updated for 2018)](supervision_5/supervision_5.pdf)
 
-[Supervision 6](supervision_6/supervision_6.pdf)
+[Supervision 6 (NOT updated for 2018)](supervision_6/supervision_6.pdf)
 
-[Supervision 7](supervision_7/supervision_7.pdf)
+[Supervision 7 (NOT updated for 2018)](supervision_7/supervision_7.pdf)
 
-[Supervision 8](supervision_8/supervision_8.pdf)
+[Supervision 8 (NOT updated for 2018)](supervision_8/supervision_8.pdf)
 
 ## General information:
 Booking
-* Try to book at least one week in advance, although I am aware that this is not always possible.
+* Aim to book at least a few days in advance.
 * Book one supervision per 3 lectures.
 
 Submission
 * Preferred form is a nicely latexed pdf.
-* Written submission in my pigeon hole in Churchill 48 hours before supervision.
 * By email 24 hours before supervision.
+* I do NOT regularly check my pigeon hole in Churchill. If you really want to submit written work, take it to the Deparment of Engineering, 4th floor BE4-40 post box.
 
 Venue
 * Department of Engineering on weekdays.
-
-Why github?
-* Easier to manage the work plus you can use the source code and you don't have to latex the questions yourself.
-* It is recommended that you subscribe to see the updates in this repo.
+* Meet at the main reception.
 
 Contacting Marton
 * If its a question related to the work, use the 'Issue' functionality on github. This way, everyone who has the same problem can see the question and contribute to the answer.
