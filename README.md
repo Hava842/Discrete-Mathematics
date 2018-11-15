@@ -6,7 +6,7 @@ This repository contains the supervision work as well as general information abo
 
 [Supervision 1 (updated for 2018)](supervision_1/supervision_1.pdf)
 
-[Supervision 2 (NOT updated for 2018)](supervision_2/supervision_2.pdf)
+[Supervision 2 (updated for 2018)](supervision_2/supervision_2.pdf)
 
 [Supervision 3 (NOT updated for 2018)](supervision_3/supervision_3.pdf)
 
