@@ -4,21 +4,21 @@ This repository contains the supervision work as well as general information abo
 
 ## Work
 
-[Supervision 1 (updated for 2018)](supervision_1/supervision_1.pdf)
+[Supervision 1 (updated)](supervision_1/supervision_1.pdf)
 
-[Supervision 2 (updated for 2018)](supervision_2/supervision_2.pdf)
+[Supervision 2 (updated)](supervision_2/supervision_2.pdf)
 
-[Supervision 3 (NOT updated for 2018)](supervision_3/supervision_3.pdf)
+[Supervision 3 (updated)](supervision_3/supervision_3.pdf)
 
-[Supervision 4 (NOT updated for 2018)](supervision_4/supervision_4.pdf)
+[Supervision 4 (NOT updated)](supervision_4/supervision_4.pdf)
 
-[Supervision 5 (NOT updated for 2018)](supervision_5/supervision_5.pdf)
+[Supervision 5 (NOT updated)](supervision_5/supervision_5.pdf)
 
-[Supervision 6 (NOT updated for 2018)](supervision_6/supervision_6.pdf)
+[Supervision 6 (NOT updated)](supervision_6/supervision_6.pdf)
 
-[Supervision 7 (NOT updated for 2018)](supervision_7/supervision_7.pdf)
+[Supervision 7 (NOT updated)](supervision_7/supervision_7.pdf)
 
-[Supervision 8 (NOT updated for 2018)](supervision_8/supervision_8.pdf)
+[Supervision 8 (NOT updated)](supervision_8/supervision_8.pdf)
 
 ## General information:
 Booking
