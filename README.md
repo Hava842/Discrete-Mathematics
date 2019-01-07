@@ -10,7 +10,7 @@ This repository contains the supervision work as well as general information abo
 
 [Supervision 3 (updated)](supervision_3/supervision_3.pdf)
 
-[Supervision 4 (NOT updated)](supervision_4/supervision_4.pdf)
+[Supervision 4 (updated)](supervision_4/supervision_4.pdf)
 
 [Supervision 5 (NOT updated)](supervision_5/supervision_5.pdf)
 
