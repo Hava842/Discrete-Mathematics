@@ -16,9 +16,9 @@ This repository contains the supervision work as well as general information abo
 
 [Supervision 6 (updated)](supervision_6/supervision_6.pdf)
 
-[Supervision 7 (NOT updated)](supervision_7/supervision_7.pdf)
+[Supervision 7 (updated)](supervision_7/supervision_7.pdf)
 
-[Supervision 8 (NOT updated)](supervision_8/supervision_8.pdf)
+[Supervision 8 (updated)](supervision_8/supervision_8.pdf)
 
 ## General information:
 Booking
